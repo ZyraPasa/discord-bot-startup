@@ -1,1 +1,2 @@
 # discord-bot-startup
+Son zamanlarda rekor kıran, discord uygulamasını kullanırken ister istemez bazı botlara ihtiyacımız oluyor. Peki ya siz o botların development ekibinde olmak isterseniz? Adım atmak için sizlere bir örnek göstereceğim.
