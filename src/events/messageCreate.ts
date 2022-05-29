@@ -1,4 +1,3 @@
-import "dotenv/config";
 import { Client, Message } from "discord.js";
 import { readdirSync } from "fs";
 import { ICommand } from "../lib/command/CommandInterface";
